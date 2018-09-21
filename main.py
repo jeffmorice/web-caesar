@@ -33,8 +33,7 @@ form = """
                 </label>
                 <input id="rot" type="text" name="rot" value="0"/>
                 <br>
-                <textarea name="text">
-                </textarea>
+                <textarea name="text"></textarea>
                 <br>
                 <input type="submit" />
             </form>
